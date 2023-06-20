@@ -5,10 +5,10 @@ from datetime import datetime
 import s3fs
 
 
-access_key = "5xRNG4diG3G9tL9xiurmOreZ4"
-access_secret = "yW1Of7JHDStNhE1P8c7U0pwqtGwP0To2bRnvD7VZVncooeFOgf"
-consumer_key = "754072515228606464-aoTejOU039nnoo9rzNEJ1wViyzIl2Lk"
-consumer_secret = "VTD7rryKtdsUqIqlnps4m4yDIaypQRtAQZkL2q9IPKDoL"
+access_key = ""
+access_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 
 # Twitter authentication
